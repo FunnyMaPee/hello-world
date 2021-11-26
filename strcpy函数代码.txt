@@ -11,3 +11,5 @@ str[i]=src[i];
 str[i]='\0';
 return str;
 }
+
+/*本地编辑*/
